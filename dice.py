@@ -1,4 +1,4 @@
-mport requests, json, time, sys, random, os, argparse, colorama
+import requests, json, time, sys, random, os, argparse, colorama
 from colorama import Fore, Back, Style
 from random import randint
 from datetime import datetime
